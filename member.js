@@ -9,5 +9,4 @@ function SkillsMember() {
             member: '='
         }
     };
-    // code goes here
 }
